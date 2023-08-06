@@ -1,6 +1,5 @@
 from models.modelos import Pokemon,Tipo_Pokemon,Habilidade
 
-
 class dadosfakes:
     def pokemon():
         # pokes

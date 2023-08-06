@@ -7,6 +7,7 @@ import sqlalchemy as sa
 class Base(DeclarativeBase):
     pass
 
+
 #tabela de assosiação entre pokemon é tipo
 pokemon_tipo = Table('pokemon_tipo', 
     Base.metadata,

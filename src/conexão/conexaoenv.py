@@ -4,6 +4,7 @@ from constantes import DATABASE_USER, DATABASE_SENHA, DATABASE_BANCO, DATABASE_P
 
 
 
+
 class Conexao:
     def __init__(self):
         self.database_user = DATABASE_USER
