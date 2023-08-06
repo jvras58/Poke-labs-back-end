@@ -1,0 +1,1 @@
+#perguntar a tony como roubar dados de uma api é jogar pra um banco

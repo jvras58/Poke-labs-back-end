@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pokelabs"
+version = "0.1.0"
+description = "projeto para estudos"
+authors = ["jvras <jvras@cin.ufpe.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+alembic = "^1.11.2"
+sqlalchemy = "^2.0.19"
+psycopg2-binary = "^2.9.7"
+openpyxl = "^3.1.2"
+python-dotenv = "^1.0.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
